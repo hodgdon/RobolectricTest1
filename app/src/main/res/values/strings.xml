@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RobolectricTest1</string>
+    <string name="action_settings">Settings</string>
+    <string name="operator_addition">Plus</string>
+    <string name="operator_subtraction">Minus</string>
+    <!-- Values should match order in CalculatorModel#Operator -->
+    <string-array name="operator_array">
+        <item>@string/operator_addition</item>
+        <item>@string/operator_subtraction</item>
+    </string-array>
+    <string name="error_text">---</string>
+    <string name="first_operand_text">First Operand</string>
+    <string name="second_operand_text">Second Operand</string>
+</resources>
